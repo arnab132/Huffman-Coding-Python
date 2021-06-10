@@ -4,7 +4,7 @@ Huffman Coding is a technique of compressing data to reduce its size without los
 
 Huffman Coding is generally useful to compress the data in which there are frequently occurring characters.
 
-#Huffman Coding Algorithm
+#Huffman Coding Algorithm -
 
 create a priority queue Q consisting of each unique character.
 sort then in ascending order of their frequencies.
