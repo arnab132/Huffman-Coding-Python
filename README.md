@@ -7,7 +7,7 @@ HC is generally useful to compress the data in which there are frequently occurr
 #Huffman Coding Algorithm -
 
 Create a Priority Queue Q consisting of each Unique character.
-Sort then in Ascending order of their frequencies.
+Sort then in ascending order of their frequencies.
 for all the unique characters:
     Create a newNode
     extract minimum value from Q and assign it to leftChild of newNode
