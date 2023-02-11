@@ -4,7 +4,7 @@ Huffman Coding (HC) is a technique of compressing data to reduce its size withou
 
 HC is generally useful to compress the data in which there are frequently occurring characters.
 
-#Huffman Coding Algorithm -
+#Huffman Coding algorithm -
 
 Create a Priority Queue Q consisting of each unique character.
 Sort then in ascending order of their frequencies.
