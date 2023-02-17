@@ -50,7 +50,7 @@ Characters sorted according to the frequency
 4.Create an empty node z. Assign the minimum frequency to the left child of z and assign the second minimum frequency to the right child of z. Set the value of the z as the sum of the above two minimum frequencies.
 
 ![image](https://user-images.githubusercontent.com/22562694/120909559-bc811380-c693-11eb-85a6-597f9bd4e328.png)
-Getting the sum of the least numbers
+Getting the sum of the Least numbers
 
 5.Remove these two minimum frequencies from Q and add the sum into the list of frequencies (* denote the internal nodes in the figure above).
 6.Insert node z into the tree.
