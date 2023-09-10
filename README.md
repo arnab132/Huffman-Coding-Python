@@ -1,6 +1,6 @@
 # Huffman-Coding-Python
 
-Huffman Coding (HC) is a technique of Compressing data to reduce its size without losing any of the details. It was first developed by David Huffman.
+Huffman Coding (HC) is a technique of Compressing data to reduce its size without losing any of the details. David Huffman first developed it.
 
 HC is generally useful to compress the data in which there are frequently occurring characters.
 
